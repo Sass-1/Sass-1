@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=002147&height=200&section=header&text=DÜLZE%20H.%20S.%20S.%20LOUIS&fontSize=40&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Financial%20Audit%20%7C%20ESIH&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=002147&height=200&section=header&text=DÜLZE%20H.%20S.%20S.%20LOUIS&fontSize=40&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Financial%20Audit%20%7C%20&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 <div align="center">

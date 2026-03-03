@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🏛️ Executive IT & Management Portfolio
+###  Executive IT & Management Portfolio
 **Precision in Logic • Integrity in Governance**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
@@ -15,17 +15,17 @@
 
 ---
 
-### 📑 Executive Summary
+###  Executive Summary
 > "Bridging the gap between **Software Engineering** and **Institutional Audit**. Specialized in creating secure, transparent data structures for modern governance and anti-corruption frameworks."
 
 ---
 
-### 💎 Strategic Assets & Specializations
+###  Strategic Assets & Specializations
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ Computing & Cybersecurity</h4>
+      <h4> Computing & Cybersecurity</h4>
       <ul>
         <li><b>Mobile Architecture:</b> Kotlin, Android Studio, XML</li>
         <li><b>Development:</b> PHP, MySQL, C/C++, HTML/CSS</li>
@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Financial Management & Audit</h4>
+      <h4> Financial Management & Audit</h4>
       <ul>
         <li><b>Data Governance:</b> Compliance & Integrity</li>
         <li><b>Institutional Monitoring:</b> Process Optimization</li>
@@ -45,9 +45,9 @@
 
 ---
 
-### 📂 Institutional Case Studies
+###  Institutional Case Studies
 
-#### 📱 [TaskFlow Manager] 
+####  [TaskFlow Manager] 
 *Strategic workflow distribution engine developed for professional task tracking.*
 - **Core Logic:** Algorithmic prioritization of administrative tasks.
 - **Tech Stack:** Kotlin & Android Studio.
@@ -55,15 +55,14 @@
 
 ---
 
-### 📈 Real-Time Performance Metrics
+###  Real-Time Performance Metrics
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=002147&height=200&section=header&text=DÜLZE%20H.%20S.%20S.%20LOUIS&fontSize=42&animation=fadeIn&fontColor=D4AF37" alt="Banner" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sass-1&theme=calm&hide_border=true&stroke=D4AF37&ring=002147&fire=D4AF37&currStreakNum=002147" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sass-1&theme=calm&hide_border=true&cache=1&stroke=D4AF37&ring=002147&fire=D4AF37&currStreakNum=002147" width="48%" />
 </p>
 
 ---
 
-### ⚡ Activity Pulse
+###  Activity Pulse
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Integrity%20is%20doing%20the%20right%20thing%2C%20even%20when%20no%20one%20is%20watching.&author=C.S.%20Lewis&theme=calm" alt="Quote" />
 </p>

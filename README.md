@@ -57,7 +57,7 @@
 
 ### 📈 Real-Time Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sass-1&layout=compact&theme=calm&title_color=D4AF37&text_color=002147&hide_border=true" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=002147&height=200&section=header&text=DÜLZE%20H.%20S.%20S.%20LOUIS&fontSize=42&animation=fadeIn&fontColor=D4AF37" alt="Banner" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sass-1&theme=calm&hide_border=true&stroke=D4AF37&ring=002147&fire=D4AF37&currStreakNum=002147" width="48%" />
 </p>
 

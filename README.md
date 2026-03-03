@@ -7,8 +7,8 @@
 ###  Executive IT & Management Portfolio
 **Precision in Logic • Integrity in Governance**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Financial_View-D4AF37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votre-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/votre-profil](https://linkedin.com/in/dulze-hkloe-sassie-shaikelta-louis))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Financial_View-D4AF37?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Inquiry-002147?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sassielouis5@gmail.com)
 
 </div>

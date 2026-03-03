@@ -7,7 +7,7 @@
 ###  Executive IT & Management Portfolio
 **Precision in Logic • Integrity in Governance**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/votre-profil](https://linkedin.com/in/dulze-hkloe-sassie-shaikelta-louis))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulze-hkloe-sassie-shaikelta-louis)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Financial_View-D4AF37?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Inquiry-002147?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sassielouis5@gmail.com)
 
@@ -57,7 +57,7 @@
 
 ###  Real-Time Performance Metrics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sass-1&theme=calm&hide_border=true&cache=1&stroke=D4AF37&ring=002147&fire=D4AF37&currStreakNum=002147" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sass-1&theme=calm&hide_border=true&cache=random&stroke=D4AF37&ring=002147&fire=D4AF37&currStreakNum=002147" width="48%" />
 </p>
 
 ---

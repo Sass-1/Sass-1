@@ -57,7 +57,7 @@
 
 ###  Real-Time Performance Metrics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sass-1&theme=calm&hide_border=true&cache=1&stroke=D4AF37&ring=002147&fire=D4AF37&currStreakNum=002147" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sass-1&theme=calm&hide_border=true&cache=update&stroke=D4AF37&ring=002147&fire=D4AF37&currStreakNum=002147" width="48%" />
 </p>
 
 ---
